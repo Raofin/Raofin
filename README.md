@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Raofin <img title="" alt="" src="https://imgur.com/cEvV3bO.gif" width="30px"></h1>
 
-<!--
-**Raofin/Raofin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **full-stack web development**
+- 👯 Looking for a new friend that has the same perspective
+- 🥅 **2022 Goals**: Contribute more to society
+- ⚡ **Fun fact**: I don't like small talk
 
-Here are some ideas to get you started:
+<h2>Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Discord:** OsthirFin#9023
+- **Email:** raofin@hotmail.com
+
+<br />
+<p align="center">
+    <a href="">
+        <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=Raofin&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0093FF&ring=0093FF&background=0D1117&currStreakLabel=0093FF&border=30363D"/>
+</p>
