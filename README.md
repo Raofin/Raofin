@@ -1,13 +1,22 @@
-<h1 align="center">Hi there, I'm Raofin <img title="" alt="" src="https://raw.githubusercontent.com/Raofin/Raofin/main/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Raofin <a href="#"><img title="" alt=""
+            src="https://raw.githubusercontent.com/Raofin/Raofin/main/wave.gif" width="40rem"></a></h1>
 
-- 🌱 Currently learning **full-stack web development**
-- 👯‍♂️ Looking for a new friend that has the same perspective
-- 🥅 **2022 Goals**: Contribute more to society
-- ⚡ **Fun fact**: I don't like small talk
+- Currently learning **full-stack web development**
+- Looking for a new friend that has the same perspective
+- **2022 Goals**: Contribute more to society
+- **Fun fact**: I don't like small talk
 
-<h2>Connect with me:</h2>
+## Technical Skills
+
+- **Programming Languages:** C#, Java, Python, C/C++, JavaScript
+- **Databases:** MySQL, OracleDB, Microsoft SQL Server
+- **Dev Tools:** Git, Github, Trello, Docker, etc.
+- **Design and Other Tools:** Adobe XD, Illustrator, Photoshop, After Effects, Premiere Pro, Figma, AutoCAD etc.
+
+## Contact
 
 - **Discord:** OsthirFin#9023
+- **Twitter:** [@Raofin99](https://twitter.com/raofin99)
 - **Email:** raofin@hotmail.com
 
 <br />
