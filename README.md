@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Raofin <img title="" alt="" src="https://raw.githubusercontent.com/Raofin/Raofin/main/wave.gif" width="30px"></h1>
 
 - 🌱 Currently learning **full-stack web development**
-- 👯 Looking for a new friend that has the same perspective
+- 👯‍♂️ Looking for a new friend that has the same perspective
 - 🥅 **2022 Goals**: Contribute more to society
 - ⚡ **Fun fact**: I don't like small talk
 
