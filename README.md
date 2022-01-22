@@ -8,14 +8,14 @@
 
 ## Technical Skills
 
-- **Programming Languages:** C#, Java, Python, C/C++, JavaScript
-- **Databases:** MySQL, OracleDB, Microsoft SQL Server
-- **Dev Tools:** Git, Github, Trello, Docker, etc.
-- **Design and Other Tools:** Adobe XD, Illustrator, Photoshop, After Effects, Premiere Pro, Figma, AutoCAD etc.
+- **Programming Languages:** `C#`, `Java` `Python` `C/C++` `JavaScript`
+- **Databases:** `MySQL` `OracleDB` `Microsoft SQL Server`
+- **Dev Tools:** `Git` `Github` `Trello` `Docker` etc.
+- **Design and Other Tools:** `Adobe XD` `Illustrator` `Photoshop` `After Effects` `Premiere Pro` `Figma` `AutoCAD` etc.
 
 ## Contact
 
-- **Discord:** OsthirFin#9023
+- **Discord:** `OsthirFin#9023`
 - **Twitter:** [@Raofin99](https://twitter.com/raofin99)
 - **Email:** raofin@hotmail.com
 
