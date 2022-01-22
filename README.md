@@ -8,7 +8,7 @@
 
 ## Technical Skills
 
-- **Programming Languages:** `C#`, `Java` `Python` `C/C++` `JavaScript`
+- **Programming Languages:** `C#` `Java` `Python` `C/C++` `JavaScript`
 - **Databases:** `MySQL` `OracleDB` `Microsoft SQL Server`
 - **Dev Tools:** `Git` `Github` `Trello` `Docker` etc.
 - **Design and Other Tools:** `Adobe XD` `Illustrator` `Photoshop` `After Effects` `Premiere Pro` `Figma` `AutoCAD` etc.
