@@ -17,7 +17,8 @@
 
 - **Discord:** `OsthirFin#9023`
 - **Twitter:** [@Raofin99](https://twitter.com/raofin99)
-- **Email:** raofin@hotmail.com
+- **Email:** hello@raofin.net
+- **Website:** [raofin.net](https://raofin.net)
 
 <br />
 <p align="center">
