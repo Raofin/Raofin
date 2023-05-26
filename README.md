@@ -9,17 +9,17 @@ I am currently pursuing a bachelors degree in computer science and engineering. 
 
 ## My Skills
 - **Programming Languages:** `Java` `C#` `JavaScript` `TypeScript` `PHP`  `Python` `C/C++` `Shell Script`
-- **Web Frameworks:** `Spring` `ASP.NET` `NestJS` `NextJS`
 - **Web Frameworks & Libraries:**
     - `Spring MVC` `Spring Boot` `Spring Security` `Hibernate` `Spring Data JPA` `JSP`
     - `ASP.NET MVC` `ASP.NET Core` `Entity Framework`
-    - `NestJS` `NodeJS` `NextJS` `ReactJS`
+    - `NodeJS` `NestJS` 
+    - `ReactJS` `NextJS`
     - `Tailwind CSS` `Bootstrap` `SASS`
 - **Databases:** `Oracle` `MS SQL Server` `MySQL` `PostgreSQL` `MongoDB`
 - **Dev Tools:** `Git` `Github` `Trello` `Docker` `Firebase` etc.
 - **IDE:** `JetBrains IDEs` `Visual Studio` `VS Code` `Eclipse` `NetBeans`
 - **Design and Other Tools:** `Figma` `Adobe XD` `Illustrator` `Photoshop` `Premiere Pro` `After Effects` `AutoCAD` etc.
-- **Miscellaneous:** `Linux` `Arduino` `Raspberry Pi`
+- **Miscellaneous:** `Linux` `Arduino` `Raspberry Pi` `DiscordJS`
 
 ## Reach Me
 - **Discord:** `OsthirFin#9023`
