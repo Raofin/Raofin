@@ -5,26 +5,19 @@
 <img width="128px" align="right" alt="" src="https://raofin.github.io/r/img/wave.gif" />
 
 # Hi there, I'm Raofin.
-I am currently pursuing a bachelors degree in computer science and engineering. I enjoy learning new technologies everyday. I am enthusiast about developing efficient, secure, and robust applications.
+I am currently pursuing a bachelor's degree in computer science and engineering. I enjoy learning new technologies every day. I am enthusiastic about developing efficient, secure, and robust applications.
 
-## My Skills
-- **Programming Languages:** `Java` `C#` `JavaScript` `TypeScript` `PHP`  `Python` `C/C++` `Shell Script`
-- **Web Frameworks & Libraries:**
-    - `Spring MVC` `Spring Boot` `Spring Security` `Hibernate` `Spring Data JPA` `JSP`
-    - `ASP.NET MVC` `ASP.NET Core` `Entity Framework`
-    - `NodeJS` `NestJS` 
-    - `ReactJS` `NextJS`
-    - `Tailwind CSS` `Bootstrap` `SASS`
-- **Databases:** `Oracle` `MS SQL Server` `MySQL` `PostgreSQL` `MongoDB`
-- **Dev Tools:** `Git` `Github` `Trello` `Docker` `Firebase` etc.
-- **IDE:** `JetBrains IDEs` `Visual Studio` `VS Code` `Eclipse` `NetBeans`
-- **Design and Other Tools:** `Figma` `Adobe XD` `Illustrator` `Photoshop` `Premiere Pro` `After Effects` `AutoCAD` etc.
-- **Miscellaneous:** `Linux` `Arduino` `Raspberry Pi` `DiscordJS`
+## My Technical Skills
+- **Backend:** `Spring Boot` `Spring MVC` `Spring Security` `Hibernate` `Spring Data JPA` `ASP.NET MVC` `ASP.NET Core` `ASP.NET Web API` `Entity Framework` `NestJS` `PHP` etc.
+- **Frontend:**  `Next.js` `ReactJS` `Tailwind CSS` `Bootstrap` `jQuery` `JavaScript` `TypeScript` etc.
+- **Database:** `Oracle Database (including PL/SQL)` `MS SQL Server` `MySQL` `PostgreSQL`
+- **Others:** `UI/UX Design` `Git & GitHub` `Docker` `Linux` `Shell Script` `Figma` `Adobe XD` `Illustrator` etc.
 
 ## Reach Me
-- **Discord:** `OsthirFin#9023`
-- **Twitter:** [@Raofin99](https://twitter.com/raofin99)
+- **Discord:** `OsthirFin`
 - **Email:** hello@raofin.net / raofin@hotmail.com
+- **LinkedIn** [in/Rawfin](https://linkedin.com/in/Rawfin)
+- **Twitter:** [@Raofin99](https://twitter.com/raofin99)
 - **Website:** [raofin.net](https://raofin.net)
 
 <p align="center">
