@@ -8,8 +8,11 @@
 I am currently pursuing a bachelor's degree in computer science and engineering. I enjoy learning new technologies every day. I am enthusiastic about developing efficient, secure, and robust applications.
 
 ## My Technical Skills
-- **Backend:** `Spring Boot` `Spring MVC` `Spring Security` `Hibernate` `Spring Data JPA` `ASP.NET MVC` `ASP.NET Core` `ASP.NET Web API` `Entity Framework` `NestJS` `PHP` etc.
-- **Frontend:**  `Next.js` `ReactJS` `Tailwind CSS` `Bootstrap` `jQuery` `JavaScript` `TypeScript` etc.
+- **Backend:**
+    - `Spring Boot` `Spring MVC` `Spring Security` `Hibernate` `Spring Data JPA`
+    - `ASP.NET MVC` `ASP.NET Core` `ASP.NET Web API` `Entity Framework`
+    - `NestJS` `TypeORM` `PHP` `Python` `C/C++` etc.
+- **Frontend:** `ReactJS` `Next.js` `Tailwind CSS` `Bootstrap` `jQuery` `JavaScript` `TypeScript` etc.
 - **Database:** `Oracle Database (including PL/SQL)` `MS SQL Server` `MySQL` `PostgreSQL`
 - **Others:** `UI/UX Design` `Git & GitHub` `Docker` `Linux` `Shell Script` `Figma` `Adobe XD` `Illustrator` etc.
 
