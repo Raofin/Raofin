@@ -5,16 +5,14 @@
 <img width="128px" align="right" alt="" src="https://raofin.github.io/r/img/wave.gif" />
 
 # Hi there, I'm Raofin.
-I am currently pursuing a bachelor's degree in computer science and engineering. I enjoy learning new technologies every day. I am enthusiastic about developing efficient, secure, and robust applications.
+I am currently pursuing a bachelor's degree in computer science and engineering. I enjoy learning new technologies every day. I am enthusiastic about developing efficient, secure, and robust applications that not only work well but also give users a great experience.
 
 ## My Technical Skills
-- **Backend:**
-    - `Spring Boot` `Spring MVC` `Spring Security` `Hibernate` `Spring Data JPA`
-    - `ASP.NET MVC` `ASP.NET Core` `ASP.NET Web API` `Entity Framework`
-    - `NestJS` `TypeORM` `PHP` `Python` `C/C++` etc.
+- **Backend:** `ASP.NET Core` `ASP.NET MVC` `ASP.NET Web API` `ASP.NET Web Forms` `Entity Framework` `RDLC`
+    -  **Familiar With** `Spring Boot` `NestJS` `PHP` `Python` etc.
 - **Frontend:** `ReactJS` `Next.js` `Tailwind CSS` `Bootstrap` `jQuery` `JavaScript` `TypeScript` etc.
 - **Database:** `Oracle Database (including PL/SQL)` `MS SQL Server` `MySQL` `PostgreSQL`
-- **Others:** `UI/UX Design` `Git & GitHub` `Docker` `Linux` `Shell Script` `Figma` `Adobe XD` `Illustrator` etc.
+- **Others:** `Git & GitHub` `Figma` `Adobe XD` `Illustrator` `UI/UX Design` etc.
 
 ## Reach Me
 - **Discord:** `OsthirFin`
