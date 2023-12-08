@@ -8,12 +8,11 @@
 I am currently pursuing a bachelor's degree in computer science and engineering. I enjoy learning new technologies every day. I am enthusiastic about developing efficient, secure, and robust applications that not only work well but also give users a great experience.
 
 ## My Technical Skills
-- **Programming Language:** `C#` `Java` `PHP` `JavaScript` `TypeScript` `Shell Script`
-- **Backend:** `ASP.NET Core` `ASP.NET MVC` `ASP.NET Web API` `ASP.NET Web Forms` `Entity Framework`
-- **Frontend:** `ReactJS` `Next.js` `Tailwind CSS` `Bootstrap` `jQuery` `SCSS`
-- **Database:** `Oracle Database (including PL/SQL)` `MS SQL Server` `MySQL` `PostgreSQL`
-- **Others:** `Git` `GitHub` `UI/UX Design` `Figma` `Illustrator` `Photoshop` `Premiere Pro`
-- **Familiar with** `Spring Boot` `NestJS` `Python` `Docker` `Adobe XD`
+- **Backend:** `ASP.NET Core` `MVC` `Web API` `Entity Framework` `RDLC` `HTML-PDF Report`
+- **Frontend:** `ReactJS` `Next.js` `jQuery` `Tailwind CSS` `Bootstrap 5` `SCSS` | `WPF` `WinForms` `Java Swing`
+- **Database:** `Oracle Database` `MS SQL Server` `PostgreSQL` `MySQL` | `PL/SQL` `Stored Procedure` `Trigger` `View`
+- **Others:** `Git & GitHub` `UI/UX Design` `Figma` `Adobe XD` `Illustrator` `Cloudflare`
+- **Familiar With:** `Spring Boot` `NestJS` `PHP` `Linux` `Shell Script`
 
 ## Reach Me
 - **Discord:** `OsthirFin`
