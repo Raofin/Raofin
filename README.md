@@ -10,16 +10,16 @@ I am currently pursuing a bachelor's degree in computer science and engineering.
 ## My Technical Skills
 - **Backend:** `ASP.NET Core` `MVC` `Web API` `Entity Framework` `RDLC` `HTML-PDF Report`
 - **Frontend:** `ReactJS` `Next.js` `jQuery` `Tailwind CSS` `Bootstrap 5` `SCSS` | `WPF` `WinForms` `Java Swing`
-- **Database:** `Oracle Database` `MS SQL Server` `PostgreSQL` `MySQL` | `PL/SQL` `Stored Procedure` `Trigger` `View`
-- **Others:** `Git & GitHub` `UI/UX Design` `Figma` `Adobe XD` `Illustrator` `Cloudflare`
-- **Familiar With:** `Spring Boot` `NestJS` `PHP` `Linux` `Shell Script`
+- **Database:** `Oracle Database` `MS SQL Server` `PostgreSQL` `MySQL` | `T-SQL` `PL/SQL` `Stored Procedure` `Function` `Trigger` `View`
+- **Others:** `Git & GitHub` `Jira` `UI/UX Design` `Figma` `Adobe XD` `Illustrator` `Cloudflare`
+- **Familiar With:** `Microservices` `Docker` `Azure DevOps` `Linux` `Shell Script` `Spring Boot` `NestJS` `PHP`
 
 ## Reach Me
 - **Discord:** `OsthirFin`
-- **Email:** hello@raofin.net / raofin@hotmail.com
+- **Email:** hello@rawfin.net / raofin@hotmail.com
 - **LinkedIn** [in/Rawfin](https://linkedin.com/in/Rawfin)
-- **Twitter:** [@Raofin99](https://twitter.com/raofin99)
-- **Website:** [raofin.net](https://raofin.net)
+- **Twitter:** [@Rawfin99](https://twitter.com/rawfin99)
+- **Website:** [rawfin.net](https://rawfin.net)
 
 <p align="center">
     <a href="">
