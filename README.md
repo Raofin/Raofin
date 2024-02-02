@@ -10,7 +10,7 @@ I am currently pursuing a bachelor's degree in computer science and engineering.
 ## My Technical Skills
 - **Backend:** `ASP.NET Core` `MVC` `Web API` `Entity Framework` `RDLC` `HTML-PDF Report`
 - **Frontend:** `ReactJS` `Next.js` `jQuery` `Tailwind CSS` `Bootstrap 5` `SCSS` | `WPF` `WinForms` `Java Swing`
-- **Database:** `Oracle Database` `MS SQL Server` `PostgreSQL` `MySQL` | `T-SQL` `PL/SQL` `Stored Procedure` `Function` `Trigger` `View`
+- **Database:** `Oracle DB` `SQL Server` `PostgreSQL` `MySQL` | `T-SQL` `PL/SQL` `Stored Procedure` `Function` `Trigger` `View`
 - **Others:** `Git & GitHub` `Jira` `UI/UX Design` `Figma` `Adobe XD` `Illustrator` `Cloudflare`
 - **Familiar With:** `Microservices` `Docker` `Azure DevOps` `Linux` `Shell Script` `Spring Boot` `NestJS` `PHP`
 
